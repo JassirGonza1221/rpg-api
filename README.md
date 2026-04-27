@@ -2,13 +2,13 @@
 
 API REST desarrollada con Node.js y Express para la gestión de personajes de un juego de rol (RPG) y simulación de batallas.
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - CRUD de personajes
 - Simulación de batallas entre personajes
 - Lógica basada en atributos (fuerza, agilidad, magia, conocimiento)
 
-## 🔗 Endpoints principales
+##  Endpoints principales
 
 - GET /characters
 - POST /characters
@@ -16,7 +16,7 @@ API REST desarrollada con Node.js y Express para la gestión de personajes de un
 - DELETE /characters/:id
 - POST /battle
 
-## ▶️ Ejecución
+##  Ejecución
 
 ```bash
 npm install
